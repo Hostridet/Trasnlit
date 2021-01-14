@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/host/Документы/ClionProjects/Translit-main/Translate.h
+
+/home/host/Документы/ClionProjects/Translit-main/main.cpp
+iostream
+-
+Translate.h
+/home/host/Документы/ClionProjects/Translit-main/Translate.h
+
